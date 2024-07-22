@@ -1,0 +1,94 @@
+#page{
+    background-color: #F5F4F0;
+    border-style: solid;
+    border-color: #F5F4F0;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+
+h1{
+    font-family: "Open Sans";
+    font-weight: bold;
+}
+
+h3{
+    color: #333333;
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.text{
+    color: #696969;
+    font-weight: bold;
+    font-family: "Open Sans";
+    font-size: 12px
+}
+
+.final-text{
+    text-transform: capitalize;
+    text-align: center;
+}
+
+.headline{
+    color: #E1624F;
+    font-family: "Open Sans";
+    font-size: 16px;
+    font-weight: bold;
+}
+
+#pontos{
+    align-items: center;
+    border-top-style: dashed;
+}
+
+#pontos-2{
+    align-items: center;
+    border-top-style: dashed;
+}
+
+img{
+    width: 700px;
+    height: 400px;
+    border-radius: 16px;
+}
+
+.historia{
+    color: #0C51A7;
+    font-family: "Comic Neue";
+    font-weight: bold;
+}
+
+.familia{
+    color: #E95E10;
+    font-family: "Comic Neue";
+    font-weight: bold;
+}
+
+.memoravel{
+    color: #E5245E;
+    font-family: "Comic Neue";
+    font-weight: bold;
+}
+
+.fotos{
+    color: #591B98;
+    font-family: "Comic Neue";
+    font-weight: bold;
+}
+
+.final-div{
+    border-top-style: dashed;
+}
+
+.footer-img{
+    width: 15px;
+    height: 15px;
+    vertical-align: middle;
+}
+
+footer{
+    text-align: center;
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
